@@ -1,6 +1,5 @@
 # Lab 5: Latches and Flip-Flops
 
-## North Central College - ELEC200
 
 ### Introduction
 In this lab, we explore the fundamental concepts of latches and flip-flops, which are essential components in digital logic design. Latches and flip-flops are bistable devices used for storing binary information and play a crucial role in sequential circuits. The objectives of this lab include designing, simulating, and implementing a D latch and a D flip-flop with an asynchronous clear.
