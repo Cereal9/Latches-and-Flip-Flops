@@ -15,7 +15,7 @@ End D_FlipFlop;
 ARCHITECTURE behave OF  D_FlipFlop IS
 
 
-COMPONENT Main is
+COMPONENT D_Latch is
 port(
 	D	: IN std_logic;
 	G	: IN std_logic;

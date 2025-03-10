@@ -2,7 +2,7 @@ LIBRARY IEEE;
 USE IEEE.std_logic_1164.ALL;
 
 
-Entity Main is
+Entity D_Latch is
 port(
 	D	: IN std_logic;
 	G	: IN std_logic;
@@ -10,9 +10,9 @@ port(
 	Q	: OUT std_logic
 
 );
-End Main;
+End D_Latch;
 
-Architecture behave of Main is
+Architecture behave of D_Latch is
 
 signal OUTPUT : std_logic;
 
