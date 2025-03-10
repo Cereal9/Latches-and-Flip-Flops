@@ -5,7 +5,7 @@
 ### Introduction
 In this lab, we explore the fundamental concepts of latches and flip-flops, which are essential components in digital logic design. Latches and flip-flops are bistable devices used for storing binary information and play a crucial role in sequential circuits. The objectives of this lab include designing, simulating, and implementing a D latch and a D flip-flop with an asynchronous clear.
 
----
+
 
 ## Objectives
 The goals of this lab are as follows:
@@ -13,7 +13,7 @@ The goals of this lab are as follows:
 - To design, analyze, and simulate a D latch with asynchronous active-low clear.
 - To simulate, analyze, and implement a rising-edge D flip-flop with asynchronous active-high clear.
 
----
+
 
 ## Design, Simulation, and Verification of a D Latch with Clear
 
@@ -40,7 +40,7 @@ A **D latch** is a level-sensitive device that transfers input data (D) to the o
 ### Conclusion
 The designed D latch functioned correctly as a data storage element, demonstrating the importance of enable signals and asynchronous resets in sequential circuits.
 
----
+
 
 ## Design, Simulation, Verification, and Implementation of a D Flip-Flop with Asynchronous Clear
 
@@ -75,7 +75,7 @@ A **D flip-flop** is an edge-triggered device that stores and transfers data on 
 ### Conclusion
 The experiment demonstrated the difference between latches and flip-flops, emphasizing the importance of clock signals in sequential circuits. The successful FPGA implementation validated the theoretical design, reinforcing the practical applications of D flip-flops in memory storage and data synchronization.
 
----
+
 
 ## Summary and Final Thoughts
 This lab provided hands-on experience in designing, simulating, and implementing digital storage elements. The comparison between latches and flip-flops highlighted their distinct functionalities, showing how flip-flops are crucial in synchronous circuit design. The simulation results aligned with theoretical expectations, and the FPGA implementation successfully demonstrated real-world applicability.
